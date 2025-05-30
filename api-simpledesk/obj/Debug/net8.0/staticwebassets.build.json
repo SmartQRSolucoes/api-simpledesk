@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "14xGmLBDJ8EaBnU+tJQMTGcxVo0uYsyRDRZtmyK1SqU=",
+  "Source": "api-simpledesk",
+  "BasePath": "_content/api-simpledesk",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
