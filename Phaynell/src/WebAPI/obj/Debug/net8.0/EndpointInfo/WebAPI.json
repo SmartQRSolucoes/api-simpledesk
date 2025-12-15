@@ -1,0 +1,273 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Phaynell.API",
+    "contact": {
+      "name": "Smart QR",
+      "url": "https://www.smartqr.tec.br/",
+      "email": "smartqr@smartqr.tec.br"
+    },
+    "version": "v1"
+  },
+  "paths": {
+    "/SmartQR/Phaynell/GetOf": {
+      "get": {
+        "tags": [
+          "Phaynell"
+        ],
+        "parameters": [
+          {
+            "name": "numero_of",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Of"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Of"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Of"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/SmartQR/Phaynell/GetOfAcompanhamneto": {
+      "get": {
+        "tags": [
+          "Phaynell"
+        ],
+        "parameters": [
+          {
+            "name": "numero_of",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Of_Acompanhamento"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Of_Acompanhamento"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Of_Acompanhamento"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Of": {
+        "type": "object",
+        "properties": {
+          "codigo_empresa": {
+            "type": "string",
+            "nullable": true
+          },
+          "numero_of": {
+            "type": "string",
+            "nullable": true
+          },
+          "data_emissao": {
+            "type": "string",
+            "nullable": true
+          },
+          "hora_emissao": {
+            "type": "string",
+            "nullable": true
+          },
+          "numero_cliente": {
+            "type": "string",
+            "nullable": true
+          },
+          "numero_pedido_cliente": {
+            "type": "string",
+            "nullable": true
+          },
+          "indicador_tercerizacao": {
+            "type": "string",
+            "nullable": true
+          },
+          "codigo_fornecedor": {
+            "type": "string",
+            "nullable": true
+          },
+          "codigo_conta": {
+            "type": "string",
+            "nullable": true
+          },
+          "numero_nf": {
+            "type": "string",
+            "nullable": true
+          },
+          "status_of": {
+            "type": "string",
+            "nullable": true
+          },
+          "observacoes_of": {
+            "type": "string",
+            "nullable": true
+          },
+          "data_atualizacao": {
+            "type": "string",
+            "nullable": true
+          },
+          "usuario_atualizacao": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Of_Acompanhamento": {
+        "type": "object",
+        "properties": {
+          "codigo_empresa": {
+            "type": "string",
+            "nullable": true
+          },
+          "numero_of": {
+            "type": "string",
+            "nullable": true
+          },
+          "numero_ocorrencia": {
+            "type": "string",
+            "nullable": true
+          },
+          "data_ocorrencia": {
+            "type": "string",
+            "nullable": true
+          },
+          "hora_ocorrencia": {
+            "type": "string",
+            "nullable": true
+          },
+          "codigo_maquina": {
+            "type": "string",
+            "nullable": true
+          },
+          "codigo_funcionario": {
+            "type": "string",
+            "nullable": true
+          },
+          "descricao_ocorrencia": {
+            "type": "string",
+            "nullable": true
+          },
+          "data_atualizacao": {
+            "type": "string",
+            "nullable": true
+          },
+          "usuario_atualizacao": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProblemDetails": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "detail": {
+            "type": "string",
+            "nullable": true
+          },
+          "instance": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": { }
+      }
+    }
+  }
+}

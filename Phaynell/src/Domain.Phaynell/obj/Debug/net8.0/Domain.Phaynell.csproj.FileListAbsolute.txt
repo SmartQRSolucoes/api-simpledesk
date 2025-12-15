@@ -1,0 +1,12 @@
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\bin\Debug\net8.0\Domain.Phaynell.deps.json
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\bin\Debug\net8.0\Domain.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\bin\Debug\net8.0\Domain.Phaynell.pdb
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\obj\Debug\net8.0\Domain.Phaynell.csproj.AssemblyReference.cache
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\obj\Debug\net8.0\Domain.Phaynell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\obj\Debug\net8.0\Domain.Phaynell.AssemblyInfoInputs.cache
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\obj\Debug\net8.0\Domain.Phaynell.AssemblyInfo.cs
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\obj\Debug\net8.0\Domain.Phaynell.csproj.CoreCompileInputs.cache
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\obj\Debug\net8.0\Domain.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\obj\Debug\net8.0\refint\Domain.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\obj\Debug\net8.0\Domain.Phaynell.pdb
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Domain.Phaynell\obj\Debug\net8.0\ref\Domain.Phaynell.dll

@@ -1,0 +1,15 @@
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\bin\Release\net8.0\Application.Phaynell.deps.json
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\bin\Release\net8.0\Application.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\bin\Release\net8.0\Application.Phaynell.pdb
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\bin\Release\net8.0\Domain.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\bin\Release\net8.0\Domain.Phaynell.pdb
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\obj\Release\net8.0\Application.Phaynell.csproj.AssemblyReference.cache
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\obj\Release\net8.0\Application.Phaynell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\obj\Release\net8.0\Application.Phaynell.AssemblyInfoInputs.cache
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\obj\Release\net8.0\Application.Phaynell.AssemblyInfo.cs
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\obj\Release\net8.0\Application.Phaynell.csproj.CoreCompileInputs.cache
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\obj\Release\net8.0\Applicat.4AB1BE97.Up2Date
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\obj\Release\net8.0\Application.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\obj\Release\net8.0\refint\Application.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\obj\Release\net8.0\Application.Phaynell.pdb
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Application.Phaynell\obj\Release\net8.0\ref\Application.Phaynell.dll

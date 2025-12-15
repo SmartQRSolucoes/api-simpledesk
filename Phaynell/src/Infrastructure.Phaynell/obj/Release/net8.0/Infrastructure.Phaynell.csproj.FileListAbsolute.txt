@@ -1,0 +1,17 @@
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\bin\Release\net8.0\Infrastructure.Phaynell.deps.json
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\bin\Release\net8.0\Infrastructure.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\bin\Release\net8.0\Infrastructure.Phaynell.pdb
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\bin\Release\net8.0\Application.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\bin\Release\net8.0\Domain.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\bin\Release\net8.0\Application.Phaynell.pdb
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\bin\Release\net8.0\Domain.Phaynell.pdb
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\obj\Release\net8.0\Infrastructure.Phaynell.csproj.AssemblyReference.cache
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\obj\Release\net8.0\Infrastructure.Phaynell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\obj\Release\net8.0\Infrastructure.Phaynell.AssemblyInfoInputs.cache
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\obj\Release\net8.0\Infrastructure.Phaynell.AssemblyInfo.cs
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\obj\Release\net8.0\Infrastructure.Phaynell.csproj.CoreCompileInputs.cache
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\obj\Release\net8.0\Infrastr.AAFEBDE5.Up2Date
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\obj\Release\net8.0\Infrastructure.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\obj\Release\net8.0\refint\Infrastructure.Phaynell.dll
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\obj\Release\net8.0\Infrastructure.Phaynell.pdb
+C:\Users\CayoHenriqueKume\source\repos\SmartQR\Integracoes\Phaynell\Infrastructure.Phaynell\obj\Release\net8.0\ref\Infrastructure.Phaynell.dll
