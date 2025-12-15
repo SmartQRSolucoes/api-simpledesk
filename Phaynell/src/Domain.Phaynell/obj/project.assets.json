@@ -372,11 +372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\Domain.Phaynell\\Domain.Phaynell.csproj",
+      "projectUniqueName": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\Domain.Phaynell\\Domain.Phaynell.csproj",
       "projectName": "Domain.Phaynell",
-      "projectPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\Domain.Phaynell\\Domain.Phaynell.csproj",
+      "projectPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\Domain.Phaynell\\Domain.Phaynell.csproj",
       "packagesPath": "C:\\Users\\CayoHenriqueKume\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\Domain.Phaynell\\obj\\",
+      "outputPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\Domain.Phaynell\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

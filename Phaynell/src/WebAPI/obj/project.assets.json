@@ -1015,22 +1015,24 @@
     },
     "Application.Phaynell/1.0.0": {
       "type": "project",
-      "path": "../Phaynell/Application.Phaynell/Application.Phaynell.csproj",
-      "msbuildProject": "../Phaynell/Application.Phaynell/Application.Phaynell.csproj"
+      "path": "../Application.Phaynell/Application.Phaynell.csproj",
+      "msbuildProject": "../Application.Phaynell/Application.Phaynell.csproj"
     },
     "Domain.Phaynell/1.0.0": {
       "type": "project",
-      "path": "../Phaynell/Domain.Phaynell/Domain.Phaynell.csproj",
-      "msbuildProject": "../Phaynell/Domain.Phaynell/Domain.Phaynell.csproj"
+      "path": "../Domain.Phaynell/Domain.Phaynell.csproj",
+      "msbuildProject": "../Domain.Phaynell/Domain.Phaynell.csproj"
     },
     "Infrastructure.Phaynell/1.0.0": {
       "type": "project",
-      "path": "../Phaynell/Infrastructure.Phaynell/Infrastructure.Phaynell.csproj",
-      "msbuildProject": "../Phaynell/Infrastructure.Phaynell/Infrastructure.Phaynell.csproj"
+      "path": "../Infrastructure.Phaynell/Infrastructure.Phaynell.csproj",
+      "msbuildProject": "../Infrastructure.Phaynell/Infrastructure.Phaynell.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Application.Phaynell >= 1.0.0",
+      "Domain.Phaynell >= 1.0.0",
       "Infrastructure.Phaynell >= 1.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.22.1",
       "Swashbuckle.AspNetCore >= 6.6.2"
@@ -1043,11 +1045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\CayoHenriqueKume\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1069,8 +1071,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\Infrastructure.Phaynell\\Infrastructure.Phaynell.csproj": {
-              "projectPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\Infrastructure.Phaynell\\Infrastructure.Phaynell.csproj"
+            "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\Application.Phaynell\\Application.Phaynell.csproj": {
+              "projectPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\Application.Phaynell\\Application.Phaynell.csproj"
+            },
+            "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\Domain.Phaynell\\Domain.Phaynell.csproj": {
+              "projectPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\Domain.Phaynell\\Domain.Phaynell.csproj"
+            },
+            "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\Infrastructure.Phaynell\\Infrastructure.Phaynell.csproj": {
+              "projectPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\SmartQR\\Integracoes\\Phaynell\\src\\Infrastructure.Phaynell\\Infrastructure.Phaynell.csproj"
             }
           }
         }
